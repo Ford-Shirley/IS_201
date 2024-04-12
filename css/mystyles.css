@@ -1,0 +1,79 @@
+h1{
+    color: rgba(120, 200, 80, 0.55);
+}
+body{
+    background-color:  rgb(183, 175, 140);
+    margin-top: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 15px;
+}
+.my-4{
+    color: black;
+    background-color: #000000;
+    color-scheme: black;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr{
+    color: black;
+    background-color: black;
+}
+
+.title{
+    color:black;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.personal_info{
+    text-align: center;
+}
+
+
+
+.the_nav{
+    background-color: #004c93;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 15px 0px;
+}
+
+.note{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(43, 43, 135);
+}
+
+.my-nav{
+    color: #fffffff1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 15px;
+    text-shadow: #000000; 
+    text-decoration: none;
+}
+
+.spec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+.normal{
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+.center1{
+    text-align: center;
+    color: black;
+    text-decoration: double;
+    font-size: 30px;
+}
